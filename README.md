@@ -1,4 +1,4 @@
-# LivDet-Fingerprint
+# LivDet-Fingerprint, Iris, and Face
 LivDet datasets of spoof and live images for fingerprint, iris, and face recognition.
 
 Details of the LivDet competitions are available here:  https://livdet.org/
